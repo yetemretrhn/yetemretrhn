@@ -21,7 +21,7 @@ Merhaba! Ben Yunus Emre, **full-stack developer** olarak çalışıyorum. Tutkuy
 - 🔭 Yeni teknolojiler keşfetmek ve mevcut projelerimi geliştirmekle meşgulüm.
 
 ### 📫 Bana Ulaşın:
-- LinkedIn: [Yunus Emre Turhan](https://www.linkedin.com/in/yetemretrhn/)
+- LinkedIn: [Yunus Emre Turhan]([https://www.linkedin.com/in/yetemretrhn/](https://www.linkedin.com/in/yunus-emre-turhan-57619525b/))
 - GitHub: [yetemretrhn](https://github.com/yetemretrhn)
 
 ---
